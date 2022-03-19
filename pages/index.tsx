@@ -26,6 +26,8 @@ export default function Home() {
             </ion-card-content>
           </ion-card>
 
+          <ion-img src="/assets/images/pic.png"></ion-img>
+
           <ion-card>
             <ion-item href="#" class="ion-activated">
               <ion-icon name="wifi" slot="start"></ion-icon>
