@@ -26,7 +26,7 @@ export default function Home() {
             </ion-card-content>
           </ion-card>
 
-          <ion-img src="/assets/images/pic.png"></ion-img>
+          <ion-img src="https://image.shutterstock.com/image-photo/nude-gorgeous-brunette-portrat-studio-600w-559589032.jpg"></ion-img>
 
           <ion-card>
             <ion-item href="#" class="ion-activated">
