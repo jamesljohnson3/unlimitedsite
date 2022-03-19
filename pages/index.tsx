@@ -20,14 +20,16 @@ export default function Home() {
               <ion-button fill="outline" slot="end">View</ion-button>
             </ion-item>
 
-            <ion-card-content>
+          
+
+          <ion-img src="https://image.shutterstock.com/image-photo/nude-gorgeous-brunette-portrat-studio-600w-559589032.jpg"></ion-img>
+
+          <ion-card-content>
               This is content, without any paragraph or header tags,
               within an ion-card-content element.
             </ion-card-content>
           </ion-card>
-
-          <ion-img src="https://image.shutterstock.com/image-photo/nude-gorgeous-brunette-portrat-studio-600w-559589032.jpg"></ion-img>
-
+          
           <ion-card>
             <ion-item href="#" class="ion-activated">
               <ion-icon name="wifi" slot="start"></ion-icon>
